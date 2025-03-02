@@ -1,0 +1,29 @@
+
+
+for(dd := 0; < dd 10) do {
+    
+    for (cc := 0; < cc 10) do {
+        
+        assign[+(cc,1) to cc];
+        print(cc)
+    };
+    
+    assign[+(dd,1) to dd];
+    print(dd)
+};
+
+
+read(x);
+
+if (<> x 10){
+    print(100)
+} else {
+    print(!100)
+} end;
+
+assign[5 to y,z]
+      [10 to const];
+
+print(*(x, / y z, const))
+
+

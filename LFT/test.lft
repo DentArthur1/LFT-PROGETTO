@@ -1,0 +1,35 @@
+assign [2 to x, _3l, a_i]
+
+       [5 to y];
+
+read(z,l);
+
+if(< z l){ //if
+
+    assign [10 to j];
+    assign [15 to j];
+
+    for(i := 0; < i 3)do{
+
+/* m mang a fcazz */
+
+      
+
+        assign [+(i,1) to i];
+
+        print(i);
+
+        for (j := 0; < j 3) do {
+            assign [+(j,1) to j];
+            print(j)
+        }
+
+    }
+
+    
+
+}else{
+
+    print(z)
+
+}end //end
