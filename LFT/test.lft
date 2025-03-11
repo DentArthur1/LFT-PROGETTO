@@ -11,8 +11,6 @@ if(< z l){ //if
 
     for(i := 0; < i 3)do{
 
-/* m mang a fcazz */
-
       
 
         assign [+(i,1) to i];
